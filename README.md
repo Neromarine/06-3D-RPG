@@ -1,13 +1,18 @@
-# 3D-Character
+## Project 06
+A 3d rpg made for FA22.
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+## Description
+A simple 3d game that includes shooting, moving enemy, and movement that include jumping.
 
 ## Implementation
+Created in GodotV3.5.1
+Assets:
+https://www.kenney.nl/
+https://ambientcg.com/
+https://www.patreon.com/posts/blender-export-16916038
 
-Created in Blender 3.1.2 and Godot 3.5
+## Future Development
+None
 
 ## Created By
-
-Jason Francis
+Jinzhi Wang
